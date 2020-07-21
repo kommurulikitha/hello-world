@@ -1,0 +1,24 @@
+# What is python?what are the ways to install python in your pc?
+
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.It is developed by Guido Van Rossum and first released in 1991.This name is obtained from the famous show "Monty Pyhton Flying Circus". Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python is simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
+Often, programmers fall in love with Python because of the increased productivity it provides. Since there is no compilation step, the edit-test-debug cycle is incredibly fast. Debugging Python programs is easy: a bug or bad input will never cause a segmentation fault. Instead, when the interpreter discovers an error, it raises an exception. When the program doesnot catch the exception, the interpreter prints a stack trace. A source level debugger allows inspection of local and global variables, evaluation of arbitrary expressions, setting breakpoints, stepping through the code a line at a time, and so on.The debugger is written in Python itself, testifying to Python is introspective power. On the other hand, often the quickest way to debug a program is to add a few print statements to the source: the fast edit-test-debug cycle makes this simple approach very effective.
+
+Advantages:
+   1.simple,easy to learn.
+   2.Free and open source.
+   3.portable and having OOPS.
+   4.Interpreter
+   5.Extensive libraries and secure
+   6.extensible and embeddable
+
+# Ways to install:
+
+There are three ways to install python.They are:
+1.By installing RODEO:
+    The easiest and fastest way to get started with Python is to download Yhat’s free Python app, Rodeo. The app includes a text editor where you can write and execute Python code, plus useful additions like a history tab, file navigator, and plots tab. It also has a few introductory tutorials in the sidebar for folks who are totally new to Python like I was.Rodeo comes with Python installed as part of the app download, so that you don’t have to do any additional steps before you start using Python. Rodeo comes with a distribution of Python called Miniconda, which we discuss below, plus the additional “place” or environment dedicated to writing Python code.To install go to the website https://www.yhat.com/products/rodeo.For running the program type command+return, or click the Run Line button.
+    
+2.By installing Anaconda:
+     Anaconda is a free distribution of Python provided by Continuum Analytics. It includes a lot of the most popular data science packages installed as well (150 in total + another 250 can be installed with the conda install command), ready for use. Unlike Rodeo, when you download Anaconda, you do not also get an environment (you’ll often hear them called IDE’s, which stands for interactive development environment) for doing your data exploration/analysis with Python. To get specific, Rodeo actually installs with Miniconda, which is a lighter alternative to Anaconda. Minconda comes just with Python and conda.To install go the website www.anaconda/distribution/ and do code.
+     
+3.Downloding python:
+    For installing the latest version of python go to www.python.org/downloads and install python and do the programs.It will interpret line by line and program will execute.
