@@ -1,0 +1,22 @@
+# Code environment
+
+A code environment is a standalone and self-contained environment like IDE to run Python or R code.
+Each code environment has its own set of packages. Environments are independent: you can install different packages or different versions of packages in different environments without interaction between them. In the case of Python environments, each environment may also use its own version of Python. You can for example have one environment running Python 2.7 and one running Python 3.6
+In each location where you can run Python or R code, you can select which code environment to use.
+# Types
+
+There are three types of environments:
+1.Text editors
+2.Full IDE's
+3.Notebook environments.
+
+1.TEXT EDITORS:
+    A text editor is used to edit plain text files.  Text editors differ from word processors, such as Microsoft Word or WordPerfect, in that they do not add additional formatting information to documents.  You might write a paper in Word, because it contains tools to change fonts, margins, and layout, but Word by default puts that formatting and layout information directly into the file, which will confuse the compiler.  If you open a .doc file in a text editor, you will notice that most of the file is formatting codes.  Text editors, however, do not add formatting codes, which makes it easier to compile your code.We can do and save any time we need.
+        Eg:notepad,Vs code, atom etc...
+2.FULL IDE's:
+    An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of at least a source code editor, build automation tools and a debugger. Some IDEs, such as NetBeans and Eclipse, contain the necessary compiler, interpreter, or both; others, such as SharpDevelop and Lazarus, do not.The boundary between an IDE and other parts of the broader software development environment is not well-defined; sometimes a version control system or various tools to simplify the construction of a graphical user interface (GUI) are integrated. Many modern IDEs also have a class browser, an object browser, and a class hierarchy diagram for use in object-oriented software development.Full IDE are like VS code etc...For python the best IDE's are pycahrm and sypder.
+      Eg:Thonny,pycharm  etc...
+
+3.NOTEBOOK ENVIRONMENT:
+    A notebook interface is a virtual notebook environment used for literate programming.It pairs the functionality of word processing software with both the shell and kernel of that notebook programming language. Millions of people use notebooks interfaces to analyze data for science, journalism, and education. the notebook interface provides a digital learning environment, particularly for the teaching of computational thinking.Their utility for combining text with code makes them unique in the realm of education. Digital notebooks are sometimes used for presentations as an alternative to PowerPoint and other presentation software, as they allow for the execution of code inside the notebook environment.Due to their ability to display data visually and retrieve data from different sources by modifying code, notebooks are also entering the realm of business intelligence software
+      Eg:Jupiter notebook,microsoft notebooks...
